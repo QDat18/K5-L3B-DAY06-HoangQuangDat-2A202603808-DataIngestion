@@ -1,0 +1,5 @@
+[reader] skipped 20 empty body blocks: 18 paragraphs, 2 tables (table body positions: [14, 61])
+[cleaner] dropped blocks 0-57 (8479 chars): Phần đầu tài liệu: quyết định, ban biên soạn, lời nói đầu, mục lục, từ viết tắt (không phải nội dung chuyên môn)
+[cleaner] dropped blocks 978-1114 (7360 chars): Từ 'TÀI LIỆU THAM KHẢO' đến hết file: danh sách tham khảo và mục lục lặp cuối file
+[units] 5481-U080 (PHU_LUC_03) is short: 1335 chars < 1500, not counted toward the 30-unit minimum
+[reader] 3 flowcharts (PHAN_2 and PHAN_4) are images: not extractable as text, excluded

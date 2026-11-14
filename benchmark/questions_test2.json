@@ -1,0 +1,123 @@
+[
+  {
+    "id": "q21",
+    "split": "test2",
+    "question": "Trong phần tư vấn dinh dưỡng, mức protein khuyến cáo mỗi ngày cho người đái tháo đường có biến chứng thận là bao nhiêu?",
+    "expected_answer": "0,8 g/kg cân nặng/ngày.",
+    "gold_source_id": "5481",
+    "gold_page": [
+      26,
+      51
+    ],
+    "evidence_quote": "BN có biến chứng thận, khuyến cáo mức protein là 0,8g/kg cân nặng/ngày.",
+    "filter": {
+      "section": "PHAN_4"
+    },
+    "type": "can_filter"
+  },
+  {
+    "id": "q22",
+    "split": "test2",
+    "question": "Người đái tháo đường uống rượu bia được giới hạn ở mức nào, và một đơn vị rượu tương đương bao nhiêu mL bia?",
+    "expected_answer": "Không quá 1-2 đơn vị rượu; một đơn vị chứa 10 g cồn, tương đương 300 mL bia.",
+    "gold_source_id": "5481",
+    "gold_page": 27,
+    "evidence_quote": "Người bị bệnh ĐTĐ vẫn được uống rượu nhưng không quá 1-2 đơn vị rượu. Một đơn vị rượu chứa 10g cồn, tương đương 120 mL rượu vang, 300 mL bia, hoặc 30mL rượu mạnh.",
+    "filter": null,
+    "type": "dien_dat_lai"
+  },
+  {
+    "id": "q23",
+    "split": "test2",
+    "question": "Người đái tháo đường đo huyết áp được 135/85 mmHg thì nên xử trí như thế nào?",
+    "expected_answer": "Điều trị bằng thay đổi lối sống tối đa 3 tháng; nếu sau đó chưa đạt mục tiêu huyết áp thì dùng thuốc hạ huyết áp.",
+    "gold_source_id": "5481",
+    "gold_page": 29,
+    "evidence_quote": "BN có huyết áp tâm thu từ 130- 139 mmHg và/hoặc tâm trương 80- 89 mmHg cần điều trị bằng cách thay đổi lối sống trong thời gian tối đa là 3 tháng",
+    "filter": null,
+    "type": "suy_luan"
+  },
+  {
+    "id": "q24",
+    "split": "test2",
+    "question": "Thai phụ bị đái tháo đường kèm tăng huyết áp có được dùng thuốc ức chế men chuyển hay ức chế thụ thể không?",
+    "expected_answer": "Không, chống chỉ định ở phụ nữ có thai.",
+    "gold_source_id": "5481",
+    "gold_page": 29,
+    "evidence_quote": "Chống chỉ định dùng ức chế men chuyển hoặc ức chế thụ thể ở phụ nữ có thai.",
+    "filter": null,
+    "type": "phu_dinh"
+  },
+  {
+    "id": "q25",
+    "split": "test2",
+    "question": "Người đái tháo đường thuộc nhóm nguy cơ tim mạch rất cao thì cần hạ LDL-C xuống mức nào?",
+    "expected_answer": "Hạ LDL-C ≥ 50% hoặc xuống dưới 1,4 mmol/L (55 mg/dL).",
+    "gold_source_id": "5481",
+    "gold_page": 31,
+    "evidence_quote": "BN đái tháo đường nguy cơ rất cao (có bệnh tim mạch xơ vữa, có tổn thương cơ quan đích, có ≥3 yếu tố nguy cơ chính) cần hạ LDL-C ≥50% hoặc dưới 1.4 mmol/L (55 mg/dL)",
+    "filter": null,
+    "type": "bang_confuser"
+  },
+  {
+    "id": "q26",
+    "split": "test2",
+    "question": "Trong phần biến chứng mạn tính, bàn chân đái tháo đường có loét sâu kèm nhiễm trùng tại chỗ nhưng chưa tổn thương xương thì phân độ Wagner là độ mấy?",
+    "expected_answer": "Độ 2.",
+    "gold_source_id": "5481",
+    "gold_page": 52,
+    "evidence_quote": "Độ 2: Loét sâu có nhiễm trùng tại chỗ, có tổn thương thần kinh, nhưng chưa có tổn thương xương.",
+    "filter": {
+      "section": "PHAN_8"
+    },
+    "type": "can_filter"
+  },
+  {
+    "id": "q27",
+    "split": "test2",
+    "question": "Thuốc hạ đường huyết đường uống nào đang được lo ngại là có thể làm tăng nguy cơ ung thư bàng quang?",
+    "expected_answer": "Pioglitazone (nhóm thiazolidinedione).",
+    "gold_source_id": "5481",
+    "gold_page": 63,
+    "evidence_quote": "Gần đây có mối lo ngại rằng pioglitazone có thể làm tăng nguy cơ ung thư bàng quang.",
+    "filter": null,
+    "type": "dien_dat_lai"
+  },
+  {
+    "id": "q28",
+    "split": "test2",
+    "question": "Trong phần các loại insulin, nếu glucose huyết sáng lúc đói cao nhưng đo lúc 3 giờ sáng lại rất thấp thì nguyên nhân là gì?",
+    "expected_answer": "Hiện tượng Somogyi: do quá liều insulin gây hạ glucose máu rồi tăng glucose phản ứng; cần giảm liều insulin.",
+    "gold_source_id": "5481",
+    "gold_page": 79,
+    "evidence_quote": "Do quá liều insulin. Tại thời điểm quá liều insulin dẫn tới hạ glucose máu làm phóng thích nhiều hormon điều hòa ngược",
+    "filter": {
+      "section": "PHU_LUC_02"
+    },
+    "type": "can_filter"
+  },
+  {
+    "id": "q29",
+    "split": "test2",
+    "question": "Trong danh mục thuốc thiết yếu điều trị đái tháo đường típ 2, thuốc nào bị chống chỉ định với người trên 60 tuổi?",
+    "expected_answer": "Glibenclamid (nguy cơ hạ đường huyết cao).",
+    "gold_source_id": "5481",
+    "gold_page": 80,
+    "evidence_quote": "Glibenclamid: nguy cơ hạ đường huyết cao, cần thận trọng khi sử dụng.\nChống chỉ định với người >60 tuổi",
+    "filter": null,
+    "type": "bang_confuser"
+  },
+  {
+    "id": "q30",
+    "split": "test2",
+    "question": "Trong phần khuyến cáo theo dõi đường huyết, người bệnh có HbA1c từ 7,0% trở lên và đường huyết dao động nhiều có được chỉ định đo đường huyết liên tục không?",
+    "expected_answer": "Có, thuộc nhóm được chỉ định đo đường huyết liên tục (CGM).",
+    "gold_source_id": "5481",
+    "gold_page": 58,
+    "evidence_quote": "HbA1c cao ≥ 7,0% và đường huyết dao động nhiều",
+    "filter": {
+      "section": "PHAN_10"
+    },
+    "type": "can_filter"
+  }
+]

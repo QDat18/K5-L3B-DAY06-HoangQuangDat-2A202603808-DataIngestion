@@ -1,0 +1,677 @@
+{
+  "documents": [
+    {
+      "source_id": "5481",
+      "title": "Hướng dẫn chẩn đoán và điều trị đái tháo đường típ 2 (ban hành kèm QĐ 5481/QĐ-BYT ngày 30/12/2020)",
+      "source_path_or_url": "https://thuvienphapluat.vn/van-ban/The-thao-Y-te/Quyet-dinh-5481-QD-BYT-2020-tai-lieu-chuyen-mon-Huong-dan-chan-doan-dieu-tri-dai-thao-duong-tip-2-460925.aspx (file local: data/raw/5481_QD-BYT_460925.docx)",
+      "license_or_permission": "Văn bản hành chính công khai của Bộ Y tế (QĐ 5481/QĐ-BYT ngày 30/12/2020); chưa xác minh quyền tái phân phối file gốc nên file docx không đưa vào repo.",
+      "accessed_at": "2026-11-14T10:15:20+07:00",
+      "sha256": "e58baa387974fe549de560f09ff1987285ee4fd525bc8d1c19197663d1b5f0e4",
+      "unit_ids": [
+        "5481-U001",
+        "5481-U002",
+        "5481-U003",
+        "5481-U004",
+        "5481-U005",
+        "5481-U006",
+        "5481-U007",
+        "5481-U008",
+        "5481-U009",
+        "5481-U010",
+        "5481-U011",
+        "5481-U012",
+        "5481-U013",
+        "5481-U014",
+        "5481-U015",
+        "5481-U016",
+        "5481-U017",
+        "5481-U018",
+        "5481-U019",
+        "5481-U020",
+        "5481-U021",
+        "5481-U022",
+        "5481-U023",
+        "5481-U024",
+        "5481-U025",
+        "5481-U026",
+        "5481-U027",
+        "5481-U028",
+        "5481-U029",
+        "5481-U030",
+        "5481-U031",
+        "5481-U032",
+        "5481-U033",
+        "5481-U034",
+        "5481-U035",
+        "5481-U036",
+        "5481-U037",
+        "5481-U038",
+        "5481-U039",
+        "5481-U040",
+        "5481-U041",
+        "5481-U042",
+        "5481-U043",
+        "5481-U044",
+        "5481-U045",
+        "5481-U046",
+        "5481-U047",
+        "5481-U048",
+        "5481-U049",
+        "5481-U050",
+        "5481-U051",
+        "5481-U052",
+        "5481-U053",
+        "5481-U054",
+        "5481-U055",
+        "5481-U056",
+        "5481-U057",
+        "5481-U058",
+        "5481-U059",
+        "5481-U060",
+        "5481-U061",
+        "5481-U062",
+        "5481-U063",
+        "5481-U064",
+        "5481-U065",
+        "5481-U066",
+        "5481-U067",
+        "5481-U068",
+        "5481-U069",
+        "5481-U070",
+        "5481-U071",
+        "5481-U072",
+        "5481-U073",
+        "5481-U074",
+        "5481-U075",
+        "5481-U076",
+        "5481-U077",
+        "5481-U078",
+        "5481-U079",
+        "5481-U080"
+      ],
+      "chars": 137094,
+      "page_counting_rule": "File .docx không có trang thật (số trang Word chỉ là metadata, không dùng). `page` = số thứ tự đơn vị nguồn (1..N): các đoạn liên tiếp trong cùng một section được gộp đến khi đạt tối thiểu 1.500 ký tự, cắt ở ranh giới đoạn, không vắt qua section; phần dư nhỏ hơn 1.500 ký tự nhập vào đơn vị trước. Section ngắn hơn 1.500 ký tự tạo một đơn vị `short`, không tính vào mốc 30."
+    }
+  ],
+  "units": [
+    {
+      "unit_id": "5481-U001",
+      "page": 1,
+      "section": "PHAN_1",
+      "chars": 2180,
+      "short": false
+    },
+    {
+      "unit_id": "5481-U002",
+      "page": 2,
+      "section": "PHAN_2",
+      "chars": 1574,
+      "short": false
+    },
+    {
+      "unit_id": "5481-U003",
+      "page": 3,
+      "section": "PHAN_2",
+      "chars": 1588,
+      "short": false
+    },
+    {
+      "unit_id": "5481-U004",
+      "page": 4,
+      "section": "PHAN_2",
+      "chars": 1514,
+      "short": false
+    },
+    {
+      "unit_id": "5481-U005",
+      "page": 5,
+      "section": "PHAN_2",
+      "chars": 2497,
+      "short": false
+    },
+    {
+      "unit_id": "5481-U006",
+      "page": 6,
+      "section": "PHAN_2",
+      "chars": 1561,
+      "short": false
+    },
+    {
+      "unit_id": "5481-U007",
+      "page": 7,
+      "section": "PHAN_2",
+      "chars": 1913,
+      "short": false
+    },
+    {
+      "unit_id": "5481-U008",
+      "page": 8,
+      "section": "PHAN_3",
+      "chars": 1528,
+      "short": false
+    },
+    {
+      "unit_id": "5481-U009",
+      "page": 9,
+      "section": "PHAN_3",
+      "chars": 1591,
+      "short": false
+    },
+    {
+      "unit_id": "5481-U010",
+      "page": 10,
+      "section": "PHAN_3",
+      "chars": 1546,
+      "short": false
+    },
+    {
+      "unit_id": "5481-U011",
+      "page": 11,
+      "section": "PHAN_3",
+      "chars": 2644,
+      "short": false
+    },
+    {
+      "unit_id": "5481-U012",
+      "page": 12,
+      "section": "PHAN_4",
+      "chars": 1526,
+      "short": false
+    },
+    {
+      "unit_id": "5481-U013",
+      "page": 13,
+      "section": "PHAN_4",
+      "chars": 1621,
+      "short": false
+    },
+    {
+      "unit_id": "5481-U014",
+      "page": 14,
+      "section": "PHAN_4",
+      "chars": 1529,
+      "short": false
+    },
+    {
+      "unit_id": "5481-U015",
+      "page": 15,
+      "section": "PHAN_4",
+      "chars": 1515,
+      "short": false
+    },
+    {
+      "unit_id": "5481-U016",
+      "page": 16,
+      "section": "PHAN_4",
+      "chars": 1750,
+      "short": false
+    },
+    {
+      "unit_id": "5481-U017",
+      "page": 17,
+      "section": "PHAN_4",
+      "chars": 1536,
+      "short": false
+    },
+    {
+      "unit_id": "5481-U018",
+      "page": 18,
+      "section": "PHAN_4",
+      "chars": 1666,
+      "short": false
+    },
+    {
+      "unit_id": "5481-U019",
+      "page": 19,
+      "section": "PHAN_4",
+      "chars": 2013,
+      "short": false
+    },
+    {
+      "unit_id": "5481-U020",
+      "page": 20,
+      "section": "PHAN_4",
+      "chars": 1557,
+      "short": false
+    },
+    {
+      "unit_id": "5481-U021",
+      "page": 21,
+      "section": "PHAN_4",
+      "chars": 1644,
+      "short": false
+    },
+    {
+      "unit_id": "5481-U022",
+      "page": 22,
+      "section": "PHAN_4",
+      "chars": 1546,
+      "short": false
+    },
+    {
+      "unit_id": "5481-U023",
+      "page": 23,
+      "section": "PHAN_4",
+      "chars": 1524,
+      "short": false
+    },
+    {
+      "unit_id": "5481-U024",
+      "page": 24,
+      "section": "PHAN_4",
+      "chars": 1513,
+      "short": false
+    },
+    {
+      "unit_id": "5481-U025",
+      "page": 25,
+      "section": "PHAN_4",
+      "chars": 1566,
+      "short": false
+    },
+    {
+      "unit_id": "5481-U026",
+      "page": 26,
+      "section": "PHAN_4",
+      "chars": 1602,
+      "short": false
+    },
+    {
+      "unit_id": "5481-U027",
+      "page": 27,
+      "section": "PHAN_4",
+      "chars": 1524,
+      "short": false
+    },
+    {
+      "unit_id": "5481-U028",
+      "page": 28,
+      "section": "PHAN_4",
+      "chars": 1545,
+      "short": false
+    },
+    {
+      "unit_id": "5481-U029",
+      "page": 29,
+      "section": "PHAN_4",
+      "chars": 1693,
+      "short": false
+    },
+    {
+      "unit_id": "5481-U030",
+      "page": 30,
+      "section": "PHAN_4",
+      "chars": 1557,
+      "short": false
+    },
+    {
+      "unit_id": "5481-U031",
+      "page": 31,
+      "section": "PHAN_4",
+      "chars": 1607,
+      "short": false
+    },
+    {
+      "unit_id": "5481-U032",
+      "page": 32,
+      "section": "PHAN_4",
+      "chars": 2371,
+      "short": false
+    },
+    {
+      "unit_id": "5481-U033",
+      "page": 33,
+      "section": "PHAN_5",
+      "chars": 1832,
+      "short": false
+    },
+    {
+      "unit_id": "5481-U034",
+      "page": 34,
+      "section": "PHAN_5",
+      "chars": 1529,
+      "short": false
+    },
+    {
+      "unit_id": "5481-U035",
+      "page": 35,
+      "section": "PHAN_5",
+      "chars": 1570,
+      "short": false
+    },
+    {
+      "unit_id": "5481-U036",
+      "page": 36,
+      "section": "PHAN_5",
+      "chars": 1540,
+      "short": false
+    },
+    {
+      "unit_id": "5481-U037",
+      "page": 37,
+      "section": "PHAN_5",
+      "chars": 2225,
+      "short": false
+    },
+    {
+      "unit_id": "5481-U038",
+      "page": 38,
+      "section": "PHAN_6",
+      "chars": 1546,
+      "short": false
+    },
+    {
+      "unit_id": "5481-U039",
+      "page": 39,
+      "section": "PHAN_6",
+      "chars": 2785,
+      "short": false
+    },
+    {
+      "unit_id": "5481-U040",
+      "page": 40,
+      "section": "PHAN_7",
+      "chars": 1550,
+      "short": false
+    },
+    {
+      "unit_id": "5481-U041",
+      "page": 41,
+      "section": "PHAN_7",
+      "chars": 1518,
+      "short": false
+    },
+    {
+      "unit_id": "5481-U042",
+      "page": 42,
+      "section": "PHAN_7",
+      "chars": 1533,
+      "short": false
+    },
+    {
+      "unit_id": "5481-U043",
+      "page": 43,
+      "section": "PHAN_7",
+      "chars": 1545,
+      "short": false
+    },
+    {
+      "unit_id": "5481-U044",
+      "page": 44,
+      "section": "PHAN_7",
+      "chars": 1502,
+      "short": false
+    },
+    {
+      "unit_id": "5481-U045",
+      "page": 45,
+      "section": "PHAN_7",
+      "chars": 1509,
+      "short": false
+    },
+    {
+      "unit_id": "5481-U046",
+      "page": 46,
+      "section": "PHAN_7",
+      "chars": 1639,
+      "short": false
+    },
+    {
+      "unit_id": "5481-U047",
+      "page": 47,
+      "section": "PHAN_7",
+      "chars": 2377,
+      "short": false
+    },
+    {
+      "unit_id": "5481-U048",
+      "page": 48,
+      "section": "PHAN_8",
+      "chars": 1647,
+      "short": false
+    },
+    {
+      "unit_id": "5481-U049",
+      "page": 49,
+      "section": "PHAN_8",
+      "chars": 1601,
+      "short": false
+    },
+    {
+      "unit_id": "5481-U050",
+      "page": 50,
+      "section": "PHAN_8",
+      "chars": 1795,
+      "short": false
+    },
+    {
+      "unit_id": "5481-U051",
+      "page": 51,
+      "section": "PHAN_8",
+      "chars": 1539,
+      "short": false
+    },
+    {
+      "unit_id": "5481-U052",
+      "page": 52,
+      "section": "PHAN_8",
+      "chars": 2551,
+      "short": false
+    },
+    {
+      "unit_id": "5481-U053",
+      "page": 53,
+      "section": "PHAN_9",
+      "chars": 1607,
+      "short": false
+    },
+    {
+      "unit_id": "5481-U054",
+      "page": 54,
+      "section": "PHAN_9",
+      "chars": 1502,
+      "short": false
+    },
+    {
+      "unit_id": "5481-U055",
+      "page": 55,
+      "section": "PHAN_9",
+      "chars": 1531,
+      "short": false
+    },
+    {
+      "unit_id": "5481-U056",
+      "page": 56,
+      "section": "PHAN_9",
+      "chars": 2212,
+      "short": false
+    },
+    {
+      "unit_id": "5481-U057",
+      "page": 57,
+      "section": "PHAN_10",
+      "chars": 1599,
+      "short": false
+    },
+    {
+      "unit_id": "5481-U058",
+      "page": 58,
+      "section": "PHAN_10",
+      "chars": 1796,
+      "short": false
+    },
+    {
+      "unit_id": "5481-U059",
+      "page": 59,
+      "section": "PHU_LUC_01",
+      "chars": 1550,
+      "short": false
+    },
+    {
+      "unit_id": "5481-U060",
+      "page": 60,
+      "section": "PHU_LUC_01",
+      "chars": 1507,
+      "short": false
+    },
+    {
+      "unit_id": "5481-U061",
+      "page": 61,
+      "section": "PHU_LUC_01",
+      "chars": 1536,
+      "short": false
+    },
+    {
+      "unit_id": "5481-U062",
+      "page": 62,
+      "section": "PHU_LUC_01",
+      "chars": 1571,
+      "short": false
+    },
+    {
+      "unit_id": "5481-U063",
+      "page": 63,
+      "section": "PHU_LUC_01",
+      "chars": 1541,
+      "short": false
+    },
+    {
+      "unit_id": "5481-U064",
+      "page": 64,
+      "section": "PHU_LUC_01",
+      "chars": 1651,
+      "short": false
+    },
+    {
+      "unit_id": "5481-U065",
+      "page": 65,
+      "section": "PHU_LUC_01",
+      "chars": 1548,
+      "short": false
+    },
+    {
+      "unit_id": "5481-U066",
+      "page": 66,
+      "section": "PHU_LUC_01",
+      "chars": 1684,
+      "short": false
+    },
+    {
+      "unit_id": "5481-U067",
+      "page": 67,
+      "section": "PHU_LUC_01",
+      "chars": 1550,
+      "short": false
+    },
+    {
+      "unit_id": "5481-U068",
+      "page": 68,
+      "section": "PHU_LUC_01",
+      "chars": 2425,
+      "short": false
+    },
+    {
+      "unit_id": "5481-U069",
+      "page": 69,
+      "section": "PHU_LUC_01",
+      "chars": 1619,
+      "short": false
+    },
+    {
+      "unit_id": "5481-U070",
+      "page": 70,
+      "section": "PHU_LUC_01",
+      "chars": 1697,
+      "short": false
+    },
+    {
+      "unit_id": "5481-U071",
+      "page": 71,
+      "section": "PHU_LUC_01",
+      "chars": 1604,
+      "short": false
+    },
+    {
+      "unit_id": "5481-U072",
+      "page": 72,
+      "section": "PHU_LUC_01",
+      "chars": 2470,
+      "short": false
+    },
+    {
+      "unit_id": "5481-U073",
+      "page": 73,
+      "section": "PHU_LUC_02",
+      "chars": 1548,
+      "short": false
+    },
+    {
+      "unit_id": "5481-U074",
+      "page": 74,
+      "section": "PHU_LUC_02",
+      "chars": 1721,
+      "short": false
+    },
+    {
+      "unit_id": "5481-U075",
+      "page": 75,
+      "section": "PHU_LUC_02",
+      "chars": 1553,
+      "short": false
+    },
+    {
+      "unit_id": "5481-U076",
+      "page": 76,
+      "section": "PHU_LUC_02",
+      "chars": 1593,
+      "short": false
+    },
+    {
+      "unit_id": "5481-U077",
+      "page": 77,
+      "section": "PHU_LUC_02",
+      "chars": 1515,
+      "short": false
+    },
+    {
+      "unit_id": "5481-U078",
+      "page": 78,
+      "section": "PHU_LUC_02",
+      "chars": 2056,
+      "short": false
+    },
+    {
+      "unit_id": "5481-U079",
+      "page": 79,
+      "section": "PHU_LUC_02",
+      "chars": 1699,
+      "short": false
+    },
+    {
+      "unit_id": "5481-U080",
+      "page": 80,
+      "section": "PHU_LUC_03",
+      "chars": 1335,
+      "short": true
+    }
+  ],
+  "dropped_ranges": [
+    {
+      "reason": "Phần đầu tài liệu: quyết định, ban biên soạn, lời nói đầu, mục lục, từ viết tắt (không phải nội dung chuyên môn)",
+      "start": 0,
+      "end": 57,
+      "chars": 8479
+    },
+    {
+      "reason": "Từ 'TÀI LIỆU THAM KHẢO' đến hết file: danh sách tham khảo và mục lục lặp cuối file",
+      "start": 978,
+      "end": 1114,
+      "chars": 7360
+    }
+  ],
+  "notes": [
+    "3 lưu đồ trong file (PHẦN 2 và PHẦN 4) bị loại vì nội dung nằm trong ảnh, không phải text.",
+    "Số trang Word trong metadata là 48 nhưng .docx không có trang thật; không dùng để đếm.",
+    "Giữ nguyên văn, kể cả lỗi chữ trong file gốc."
+  ]
+}

@@ -1,0 +1,238 @@
+strategy,unit_id,section,chunk_id,chunk_chars,text,label,reason
+A,5481-U001,PHAN_1,A-5481-U001-001,500,"ĐỊNH NGHĨA VÀ DỊCH TỄ HỌC
+Bệnh đái tháo đường là bệnh rối loạn chuyển hóa, có đặc điểm tăng glucose huyết mạn tính do khiếm khuyết về tiết insulin, về tác động của insulin, hoặc cả hai. Tăng glucose mạn tính trong thời gian dài gây nên những rối loạn chuyển hóa carbohydrate, protide, lipide, gây tổn thương ở nhiều cơ quan khác nhau, đặc biệt ở tim và mạch máu, thận, mắt, thần kinh.
+Theo Liên đoàn Đái tháo đường Quốc tế (IDF), năm 2019 toàn thế giới có 463 triệu người (trong độ tuổi 20-79) bị bện",1,Cắt giữa từ ('bị bện') ở cuối; đầu chunk còn tiêu đề và hai đoạn trọn nên vẫn hiểu
+A,5481-U002,PHAN_2,A-5481-U002-001,500," tháo đường
+Tiêu chuẩn chẩn đoán đái tháo đường dựa vào 1 trong 4 tiêu chí sau đây:
+a) Glucose huyết tương lúc đói ≥ 126 mg/dL (hay 7 mmol/L) hoặc:
+b) Glucose huyết tương ở thời điểm sau 2 giờ làm nghiệm pháp dung nạp với 75g glucose bằng đường uống ≥ 200 mg/dL (hay 11,1 mmol/L)
+c) HbA1c ≥ 6,5% (48 mmol/mol). Xét nghiệm HbA1c phải được thực hiện bằng phương pháp đã chuẩn hóa theo tiêu chuẩn quốc tế.
+d) BN có triệu chứng kinh điển của tăng glucose huyết hoặc của cơn tăng glucose huyết cấp kèm mức",1,Mất phần đầu tiêu đề; tiêu chí d bị cắt ngang ('kèm mức') nên danh sách 4 tiêu chí không đủ
+A,5481-U003,PHAN_2,A-5481-U003-001,500,"trị THA)
+- HDL cholesterol < 35 mg/dL (0,9mmol/L) và/hoặc triglyceride >250mg/dL (2,8mmol/L)
+- Phụ nữ bị hội chứng buồng trứng đa nang
+- Ít hoạt động thể lực
+- Các tình trạng lâm sàng khác liên quan với kháng insulin (như dấu gai đen: acanthosis nigricans).
+b) Phụ nữ đã được chẩn đoán ĐTĐ thai kỳ cần theo dõi lâu dài, xét nghiệm ít nhất mỗi 3 năm.
+c) Tất cả mọi người từ 45 tuổi trở lên
+d) Nếu các kết quả bình thường, xét nghiệm sẽ được làm lại trong vòng 1- 3 năm sau hoặc ngắn hơn tùy theo kết q",0,Bắt đầu giữa danh sách ('trị THA)') nên mất chủ thể (đây là các yếu tố nguy cơ cần tầm soát); cuối chunk cắt giữa câu
+A,5481-U004,PHAN_2,A-5481-U004-001,500," 24 đến 28 của thai kỳ đối với những thai phụ không được chẩn đoán đái tháo đường trước đó.
+- Thực hiện xét nghiệm để chẩn đoán đái tháo đường thật sự (bền vững): ở phụ nữ có đái tháo đường thai kỳ, sau khi sinh từ 4 đến 12 tuần. Dùng nghiệm pháp dung nạp glucose đường uống và áp dụng các tiêu chuẩn chẩn đoán dành cho người trưởng thành không mang thai. Sử dụng các tiêu chuẩn chẩn đoán đái tháo đường tại điểm a, b, d của điểm 1.1 - Mục 1. Chẩn đoán (không áp dụng tiêu chuẩn về HbA1c).
+- Ở phụ nữ",1,Đầu và cuối bị cắt giữa câu; ý ở giữa (xét nghiệm sau sinh 4-12 tuần) vẫn trọn
+A,5481-U005,PHAN_2,A-5481-U005-001,500,"háng insulin).
+c) Đái tháo đường thai kỳ (là ĐTĐ được chẩn đoán trong 3 tháng giữa hoặc 3 tháng cuối của thai kỳ và không có bằng chứng về ĐTĐ típ 1, típ 2 trước đó).
+d) Các loại ĐTĐ đặc biệt do các nguyên nhân khác, như ĐTĐ sơ sinh hoặc đái tháo đường do sử dụng thuốc và hóa chất như sử dụng glucocorticoid, điều trị HIV/AIDS hoặc sau cấy ghép mô…
+2.1. Đái tháo đường típ 1
+Đái tháo đường típ 1 do tế bào beta bị phá hủy nên BN không còn hoặc còn rất ít insulin, 95% do cơ chế tự miễn (típ 1A), 5% ",1,"Bắt đầu giữa từ ('háng insulin)'), cuối bị cắt ('5% '); phần phân loại ở giữa đọc được"
+A,5481-U006,PHAN_2,A-5481-U006-001,500,"ng cuối của thai kỳ và không có bằng chứng về ĐTĐ típ 1, típ 2 trước đó. Nếu phụ nữ có thai 3 tháng đầu được phát hiện tăng glucose huyết thì chẩn đoán là ĐTĐ chưa được chẩn đoán hoặc chưa được phát hiện và dùng tiêu chí chẩn đoán như ở người không có thai.
+2.4. Đái tháo đường thứ phát và thể bệnh chuyên biệt của ĐTĐ
+a) Khiếm khuyết trên nhiễm sắc thể thường, di truyền theo gen trội tại tế bào beta.
+- ĐTĐ đơn gen thể MODY (Maturity Onset Diabetes of the Young)
+- Insulin hoặc proinsulin đột biến:",1,Câu đầu cắt giữa từ ('ng cuối') nên mất định nghĩa ĐTĐ thai kỳ; danh sách MODY cắt ngang cuối chunk
+A,5481-U007,PHAN_2,A-5481-U007-001,500," hiện lâm sàng; Đái tháo đường típ 1: - Sút cân nhanh chóng.
+- Đái nhiều.
+- Uống nhiều; Đái tháo đường típ 2: - Bệnh diễn tiến âm ỉ, ít triệu chứng
+- Thể trạng béo, thừa cân
+- Tiền sử gia đình có người mắc bệnh đái tháo đường típ 2.
+- Đặc tính dân tộc có tỷ lệ mắc bệnh cao.
+- Dấu gai đen (Acanthosis nigricans)
+- Hội chứng buồng trứng đa nang
+Đặc điểm: Nhiễm ceton, tăng ceton trong máu, nước tiểu; Đái tháo đường típ 1: Dương tính; Đái tháo đường típ 2: Thường không có
+Đặc điểm: Insulin/C-peptid; ",1,"Bắt đầu giữa hàng bảng ('hiện lâm sàng'), cuối bị cắt ('Insulin/C-peptid;'); mất tiêu đề bảng nhưng các hàng còn lại đọc được"
+A,5481-U008,PHAN_3,A-5481-U008-001,500," chứng đái tháo đường và các bệnh đồng mắc;
+- Xem xét việc điều trị trước đây và việc kiểm soát yếu tố nguy cơ ở BN ĐTĐ đã được chẩn đoán;
+- Thảo luận cùng người bệnh và thân nhân trong xây dựng kế hoạch quản lý, tự quản lý và chăm sóc.
+- Xây dựng kế hoạch hoặc điều chỉnh để chăm sóc liên tục, toàn diện người bệnh.
+2. Các nội dung đánh giá toàn diện
+2.1. Bệnh sử - Lâm sàng:
+- Tuổi, đặc điểm lúc khởi phát đái tháo đường (nhiễm toan ceton đái tháo đường, phát hiện đái tháo đường bằng xét nghiệm nh",1,Mất phần đầu của mục đích khám; cuối chunk cắt giữa từ ('nh')
+A,5481-U009,PHAN_3,A-5481-U009-001,500,"hăn về tài chính, sự trợ giúp xã hội
+- Nếu BN có máy thử glucose huyết cá nhân hoặc sổ theo dõi khám bệnh, kiểm tra lại các thông số theo dõi glucose huyết và xử trí của BN.
+- Tiền sử nhiễm toan ceton, tần suất, độ trầm trọng, nguyên nhân.
+- Tiền sử các cơn hạ glucose máu, khả năng nhận biết và cách xử trí lúc có cơn, tần suất, nguyên nhân.
+- Tiền sử tăng huyết áp, rối loạn lipid máu
+- Các biến chứng mạch máu nhỏ: võng mạc, thận, thần kinh
+- Các biến chứng mạch máu lớn: bệnh tim thiếu máu cục bộ",1,"Bắt đầu giữa từ ('hăn về tài chính'), mất tiêu đề bệnh sử; cuối cắt ngang"
+A,5481-U010,PHAN_3,A-5481-U010-001,500,"chân…
+- Sờ: xem da lạnh hay nóng, bắt mạch mu chân và chày sau, hốc kheo chân
+h) Khám thần kinh:
+- TK ngoại biên:
++ Dấu cơ năng hỏi triệu chứng về dị cảm ở chi dưới: tê bì, đau nhức, nóng rát,..
++ Có hay mất phản xạ gân cơ Achilles
++ Khám thực thể: cảm giác xúc giác, cảm giác rung, cảm giác áp lực bằng sợi đơn (monofilament).
+- Thần kinh tự động ảnh hưởng trên nhiều cơ quan
+2.3. Đánh giá về cận lâm sàng
+Bảng 2: Xét nghiệm đối với người bệnh đái tháo đường
+Tên xét nghiệm: Công thức máu; Lần đầu: ",1,Bắt đầu giữa câu ('chân…') và kết thúc cắt giữa hàng bảng ('Lần đầu: ')
+B,5481-U001,PHAN_1,B-5481-U001-001,714,"ĐỊNH NGHĨA VÀ DỊCH TỄ HỌC
+Bệnh đái tháo đường là bệnh rối loạn chuyển hóa, có đặc điểm tăng glucose huyết mạn tính do khiếm khuyết về tiết insulin, về tác động của insulin, hoặc cả hai. Tăng glucose mạn tính trong thời gian dài gây nên những rối loạn chuyển hóa carbohydrate, protide, lipide, gây tổn thương ở nhiều cơ quan khác nhau, đặc biệt ở tim và mạch máu, thận, mắt, thần kinh.
+Theo Liên đoàn Đái tháo đường Quốc tế (IDF), năm 2019 toàn thế giới có 463 triệu người (trong độ tuổi 20-79) bị bệnh đái tháo đường (ĐTĐ), dự kiến sẽ đạt 578 triệu người vào năm 2030 và 700 triệu người vào năm 2045. Ước tính hơn 4 triệu người trong độ tuổi từ 20-79 đã tử vong vì các nguyên nhân liên quan đến ĐTĐ trong năm 2019.",2,Tiêu đề và hai đoạn dịch tễ trọn vẹn
+B,5481-U002,PHAN_2,B-5481-U002-001,627,"CHẨN ĐOÁN VÀ PHÂN LOẠI ĐÁI THÁO ĐƯỜNG
+1. Chẩn đoán
+1.1. Chẩn đoán đái tháo đường
+Tiêu chuẩn chẩn đoán đái tháo đường dựa vào 1 trong 4 tiêu chí sau đây:
+a) Glucose huyết tương lúc đói ≥ 126 mg/dL (hay 7 mmol/L) hoặc:
+b) Glucose huyết tương ở thời điểm sau 2 giờ làm nghiệm pháp dung nạp với 75g glucose bằng đường uống ≥ 200 mg/dL (hay 11,1 mmol/L)
+c) HbA1c ≥ 6,5% (48 mmol/mol). Xét nghiệm HbA1c phải được thực hiện bằng phương pháp đã chuẩn hóa theo tiêu chuẩn quốc tế.
+d) BN có triệu chứng kinh điển của tăng glucose huyết hoặc của cơn tăng glucose huyết cấp kèm mức glucose huyết tương bất kỳ ≥ 200 mg/dL (hay 11,1 mmol/L).",2,Tiêu đề và đủ bốn tiêu chí chẩn đoán a-d
+B,5481-U003,PHAN_2,B-5481-U003-001,682,"a) Người trưởng thành ở bất kỳ tuổi nào có thừa cân hoặc béo phì (BMI ≥ 23 kg/m2) và có kèm một trong số các yếu tố nguy cơ sau:
+- Có người thân đời thứ nhất ( bố mẹ, anh chị em ruột, con đẻ ) bị ĐTĐ
+- Tiền sử bệnh tim mạch do xơ vữa động mạch
+- Tăng huyết áp (HA ≥ 140/90 mmHg, hoặc đang điều trị THA)
+- HDL cholesterol < 35 mg/dL (0,9mmol/L) và/hoặc triglyceride >250mg/dL (2,8mmol/L)
+- Phụ nữ bị hội chứng buồng trứng đa nang
+- Ít hoạt động thể lực
+- Các tình trạng lâm sàng khác liên quan với kháng insulin (như dấu gai đen: acanthosis nigricans).
+b) Phụ nữ đã được chẩn đoán ĐTĐ thai kỳ cần theo dõi lâu dài, xét nghiệm ít nhất mỗi 3 năm.
+c) Tất cả mọi người từ 45 tuổi trở lên",1,Danh sách yếu tố nguy cơ trọn nhưng thiếu tiêu đề 1.2 (xét nghiệm tầm soát) nên không biết đang nói về việc gì
+B,5481-U004,PHAN_2,B-5481-U004-001,675,"- Thực hiện xét nghiệm chẩn đoán ĐTĐ thai kỳ ở tuần thứ 24 đến 28 của thai kỳ đối với những thai phụ không được chẩn đoán đái tháo đường trước đó.
+- Thực hiện xét nghiệm để chẩn đoán đái tháo đường thật sự (bền vững): ở phụ nữ có đái tháo đường thai kỳ, sau khi sinh từ 4 đến 12 tuần. Dùng nghiệm pháp dung nạp glucose đường uống và áp dụng các tiêu chuẩn chẩn đoán dành cho người trưởng thành không mang thai. Sử dụng các tiêu chuẩn chẩn đoán đái tháo đường tại điểm a, b, d của điểm 1.1 - Mục 1. Chẩn đoán (không áp dụng tiêu chuẩn về HbA1c).
+- Ở phụ nữ có tiền sử đái tháo đường thai kỳ nên thực hiện xét nghiệm phát hiện sớm ĐTĐ hay tiền ĐTĐ ít nhất mỗi 1- 3 năm một lần.",2,"Các gạch đầu dòng là câu trọn, có chủ thể (xét nghiệm ĐTĐ thai kỳ, sau sinh 4-12 tuần)"
+B,5481-U005,PHAN_2,B-5481-U005-001,715,"- Ở thời điểm 2 giờ ≥ 153 mg/dL (8,5 mmol/L)
+Hình 1: Sơ đồ chẩn đoán đái tháo đường
+2. Phân loại đái tháo đường
+Bệnh đái tháo đường được phân thành 4 loại chính
+a) Đái tháo đường típ 1 (do phá hủy tế bào beta tụy, dẫn đến thiếu insulin tuyệt đối).
+b) Đái tháo đường típ 2 (do giảm chức năng của tế bào beta tụy tiến triển trên nền tảng đề kháng insulin).
+c) Đái tháo đường thai kỳ (là ĐTĐ được chẩn đoán trong 3 tháng giữa hoặc 3 tháng cuối của thai kỳ và không có bằng chứng về ĐTĐ típ 1, típ 2 trước đó).
+d) Các loại ĐTĐ đặc biệt do các nguyên nhân khác, như ĐTĐ sơ sinh hoặc đái tháo đường do sử dụng thuốc và hóa chất như sử dụng glucocorticoid, điều trị HIV/AIDS hoặc sau cấy ghép mô…
+2.1. Đái tháo đường típ 1",1,Dòng đầu là ngưỡng 2 giờ ≥153 mồ côi (lúc đói và 1 giờ nằm ở chunk trước); phần phân loại phía sau trọn
+B,5481-U006,PHAN_2,B-5481-U006-001,762,"2.3. Đái tháo đường thai kỳ:
+ĐTĐ thai kỳ là ĐTĐ được chẩn đoán trong 3 tháng giữa hoặc 3 tháng cuối của thai kỳ và không có bằng chứng về ĐTĐ típ 1, típ 2 trước đó. Nếu phụ nữ có thai 3 tháng đầu được phát hiện tăng glucose huyết thì chẩn đoán là ĐTĐ chưa được chẩn đoán hoặc chưa được phát hiện và dùng tiêu chí chẩn đoán như ở người không có thai.
+2.4. Đái tháo đường thứ phát và thể bệnh chuyên biệt của ĐTĐ
+a) Khiếm khuyết trên nhiễm sắc thể thường, di truyền theo gen trội tại tế bào beta.
+- ĐTĐ đơn gen thể MODY (Maturity Onset Diabetes of the Young)
+- Insulin hoặc proinsulin đột biến: (Protein đột biến preproinsulin-gen INS)
+- Đột biến kênh KATP (Protein đột biến: kênh chỉnh lưu Kali 6,2-gen KCNJ11; Protein đột biến: Thụ thể sulfonylurea 1-gen ABBC8).",2,"Mục 2.3 và 2.4 trọn, từng dòng tự đọc được"
+B,5481-U007,PHAN_2,B-5481-U007-001,673,"2.5. Phân biệt đái tháo đường típ 1 và típ 2
+Bảng 1: Phân biệt ĐTĐ típ 1 và típ 2
+Đặc điểm: Tuổi xuất hiện; Đái tháo đường típ 1: Trẻ, thanh thiếu niên; Đái tháo đường típ 2: Tuổi trưởng thành
+Đặc điểm: Khởi phát; Đái tháo đường típ 1: Các triệu chứng rầm rộ; Đái tháo đường típ 2: Chậm, thường không rõ triệu chứng
+Đặc điểm: Biểu hiện lâm sàng; Đái tháo đường típ 1: - Sút cân nhanh chóng.
+- Đái nhiều.
+- Uống nhiều; Đái tháo đường típ 2: - Bệnh diễn tiến âm ỉ, ít triệu chứng
+- Thể trạng béo, thừa cân
+- Tiền sử gia đình có người mắc bệnh đái tháo đường típ 2.
+- Đặc tính dân tộc có tỷ lệ mắc bệnh cao.
+- Dấu gai đen (Acanthosis nigricans)
+- Hội chứng buồng trứng đa nang",2,Tiêu đề và các hàng đầu của Bảng 1 trọn; các hàng sau ở chunk khác nhưng không gây hiểu sai
+B,5481-U008,PHAN_3,B-5481-U008-001,742,"KHÁM VÀ ĐÁNH GIÁ TOÀN DIỆN NGƯỜI BỆNH ĐTĐ
+1. Mục đích
+Đánh giá toàn diện nên thực hiện vào lần khám bệnh đầu tiên sau đó định kỳ hàng năm nhằm mục đích sau:
+- Xác định chẩn đoán và phân loại ĐTĐ;
+- Phát hiện các biến chứng đái tháo đường và các bệnh đồng mắc;
+- Xem xét việc điều trị trước đây và việc kiểm soát yếu tố nguy cơ ở BN ĐTĐ đã được chẩn đoán;
+- Thảo luận cùng người bệnh và thân nhân trong xây dựng kế hoạch quản lý, tự quản lý và chăm sóc.
+- Xây dựng kế hoạch hoặc điều chỉnh để chăm sóc liên tục, toàn diện người bệnh.
+2. Các nội dung đánh giá toàn diện
+2.1. Bệnh sử - Lâm sàng:
+- Tuổi, đặc điểm lúc khởi phát đái tháo đường (nhiễm toan ceton đái tháo đường, phát hiện đái tháo đường bằng xét nghiệm nhưng không có triệu chứng).",2,"Mục đích, nội dung đánh giá và mục 2.1 mở đầu đọc được"
+B,5481-U009,PHAN_3,B-5481-U009-001,793,"- Tầm soát trầm cảm, lo âu, các khó khăn về tài chính, sự trợ giúp xã hội
+- Nếu BN có máy thử glucose huyết cá nhân hoặc sổ theo dõi khám bệnh, kiểm tra lại các thông số theo dõi glucose huyết và xử trí của BN.
+- Tiền sử nhiễm toan ceton, tần suất, độ trầm trọng, nguyên nhân.
+- Tiền sử các cơn hạ glucose máu, khả năng nhận biết và cách xử trí lúc có cơn, tần suất, nguyên nhân.
+- Tiền sử tăng huyết áp, rối loạn lipid máu
+- Các biến chứng mạch máu nhỏ: võng mạc, thận, thần kinh
+- Các biến chứng mạch máu lớn: bệnh tim thiếu máu cục bộ, nhồi máu cơ tim, đột quị, bệnh mạch máu ngoại vi.
+- Cân nặng các con lúc sinh của phụ nữ.
+Đối với phụ nữ trong lứa tuổi sinh sản: hỏi vế kế hoạch sinh con của BN, người bệnh có dùng phương pháp nào để ngừa thai.
+2.2. Khám thực thể: cần đặc biệt chú trọng",1,Tiếp nối danh sách bệnh sử mà không có tiêu đề; cuối chunk là tiêu đề 2.2 mồ côi
+B,5481-U010,PHAN_3,B-5481-U010-001,795,"f) Khám da: tìm dấu gai đen, các thay đổi da do ĐTĐ kiểm soát kém, khám các vùng tiêm chích (nếu BN dùng insulin)
+g) Khám bàn chân toàn diện:
+- Nhìn: xem dấu khô da, thay đổi màu sắc da (tái, tím, tấy đỏ), các vết chai, biến dạng bàn chân, loét chân…
+- Sờ: xem da lạnh hay nóng, bắt mạch mu chân và chày sau, hốc kheo chân
+h) Khám thần kinh:
+- TK ngoại biên:
++ Dấu cơ năng hỏi triệu chứng về dị cảm ở chi dưới: tê bì, đau nhức, nóng rát,..
++ Có hay mất phản xạ gân cơ Achilles
++ Khám thực thể: cảm giác xúc giác, cảm giác rung, cảm giác áp lực bằng sợi đơn (monofilament).
+- Thần kinh tự động ảnh hưởng trên nhiều cơ quan
+2.3. Đánh giá về cận lâm sàng
+Bảng 2: Xét nghiệm đối với người bệnh đái tháo đường
+Tên xét nghiệm: Công thức máu; Lần đầu: x; Tái khám: 3- 6 tháng, Tùy tình trạng người bệnh",1,Các mục f-h trọn nhưng thiếu a-e; cuối chunk chỉ có tiêu đề Bảng 2 và một hàng
+C,5481-U001,PHAN_1,B-5481-U001-001,714,"ĐỊNH NGHĨA VÀ DỊCH TỄ HỌC
+Bệnh đái tháo đường là bệnh rối loạn chuyển hóa, có đặc điểm tăng glucose huyết mạn tính do khiếm khuyết về tiết insulin, về tác động của insulin, hoặc cả hai. Tăng glucose mạn tính trong thời gian dài gây nên những rối loạn chuyển hóa carbohydrate, protide, lipide, gây tổn thương ở nhiều cơ quan khác nhau, đặc biệt ở tim và mạch máu, thận, mắt, thần kinh.
+Theo Liên đoàn Đái tháo đường Quốc tế (IDF), năm 2019 toàn thế giới có 463 triệu người (trong độ tuổi 20-79) bị bệnh đái tháo đường (ĐTĐ), dự kiến sẽ đạt 578 triệu người vào năm 2030 và 700 triệu người vào năm 2045. Ước tính hơn 4 triệu người trong độ tuổi từ 20-79 đã tử vong vì các nguyên nhân liên quan đến ĐTĐ trong năm 2019.",2,Tiêu đề và hai đoạn dịch tễ trọn vẹn (C dùng chunk của B)
+C,5481-U002,PHAN_2,B-5481-U002-001,627,"CHẨN ĐOÁN VÀ PHÂN LOẠI ĐÁI THÁO ĐƯỜNG
+1. Chẩn đoán
+1.1. Chẩn đoán đái tháo đường
+Tiêu chuẩn chẩn đoán đái tháo đường dựa vào 1 trong 4 tiêu chí sau đây:
+a) Glucose huyết tương lúc đói ≥ 126 mg/dL (hay 7 mmol/L) hoặc:
+b) Glucose huyết tương ở thời điểm sau 2 giờ làm nghiệm pháp dung nạp với 75g glucose bằng đường uống ≥ 200 mg/dL (hay 11,1 mmol/L)
+c) HbA1c ≥ 6,5% (48 mmol/mol). Xét nghiệm HbA1c phải được thực hiện bằng phương pháp đã chuẩn hóa theo tiêu chuẩn quốc tế.
+d) BN có triệu chứng kinh điển của tăng glucose huyết hoặc của cơn tăng glucose huyết cấp kèm mức glucose huyết tương bất kỳ ≥ 200 mg/dL (hay 11,1 mmol/L).",2,Tiêu đề và đủ bốn tiêu chí chẩn đoán a-d (C dùng chunk của B)
+C,5481-U003,PHAN_2,B-5481-U003-001,682,"a) Người trưởng thành ở bất kỳ tuổi nào có thừa cân hoặc béo phì (BMI ≥ 23 kg/m2) và có kèm một trong số các yếu tố nguy cơ sau:
+- Có người thân đời thứ nhất ( bố mẹ, anh chị em ruột, con đẻ ) bị ĐTĐ
+- Tiền sử bệnh tim mạch do xơ vữa động mạch
+- Tăng huyết áp (HA ≥ 140/90 mmHg, hoặc đang điều trị THA)
+- HDL cholesterol < 35 mg/dL (0,9mmol/L) và/hoặc triglyceride >250mg/dL (2,8mmol/L)
+- Phụ nữ bị hội chứng buồng trứng đa nang
+- Ít hoạt động thể lực
+- Các tình trạng lâm sàng khác liên quan với kháng insulin (như dấu gai đen: acanthosis nigricans).
+b) Phụ nữ đã được chẩn đoán ĐTĐ thai kỳ cần theo dõi lâu dài, xét nghiệm ít nhất mỗi 3 năm.
+c) Tất cả mọi người từ 45 tuổi trở lên",1,Danh sách yếu tố nguy cơ trọn nhưng thiếu tiêu đề 1.2 (xét nghiệm tầm soát) nên không biết đang nói về việc gì (C dùng chunk của B)
+C,5481-U004,PHAN_2,B-5481-U004-001,675,"- Thực hiện xét nghiệm chẩn đoán ĐTĐ thai kỳ ở tuần thứ 24 đến 28 của thai kỳ đối với những thai phụ không được chẩn đoán đái tháo đường trước đó.
+- Thực hiện xét nghiệm để chẩn đoán đái tháo đường thật sự (bền vững): ở phụ nữ có đái tháo đường thai kỳ, sau khi sinh từ 4 đến 12 tuần. Dùng nghiệm pháp dung nạp glucose đường uống và áp dụng các tiêu chuẩn chẩn đoán dành cho người trưởng thành không mang thai. Sử dụng các tiêu chuẩn chẩn đoán đái tháo đường tại điểm a, b, d của điểm 1.1 - Mục 1. Chẩn đoán (không áp dụng tiêu chuẩn về HbA1c).
+- Ở phụ nữ có tiền sử đái tháo đường thai kỳ nên thực hiện xét nghiệm phát hiện sớm ĐTĐ hay tiền ĐTĐ ít nhất mỗi 1- 3 năm một lần.",2,"Các gạch đầu dòng là câu trọn, có chủ thể (xét nghiệm ĐTĐ thai kỳ, sau sinh 4-12 tuần) (C dùng chunk của B)"
+C,5481-U005,PHAN_2,B-5481-U005-001,715,"- Ở thời điểm 2 giờ ≥ 153 mg/dL (8,5 mmol/L)
+Hình 1: Sơ đồ chẩn đoán đái tháo đường
+2. Phân loại đái tháo đường
+Bệnh đái tháo đường được phân thành 4 loại chính
+a) Đái tháo đường típ 1 (do phá hủy tế bào beta tụy, dẫn đến thiếu insulin tuyệt đối).
+b) Đái tháo đường típ 2 (do giảm chức năng của tế bào beta tụy tiến triển trên nền tảng đề kháng insulin).
+c) Đái tháo đường thai kỳ (là ĐTĐ được chẩn đoán trong 3 tháng giữa hoặc 3 tháng cuối của thai kỳ và không có bằng chứng về ĐTĐ típ 1, típ 2 trước đó).
+d) Các loại ĐTĐ đặc biệt do các nguyên nhân khác, như ĐTĐ sơ sinh hoặc đái tháo đường do sử dụng thuốc và hóa chất như sử dụng glucocorticoid, điều trị HIV/AIDS hoặc sau cấy ghép mô…
+2.1. Đái tháo đường típ 1",1,Dòng đầu là ngưỡng 2 giờ ≥153 mồ côi (lúc đói và 1 giờ nằm ở chunk trước); phần phân loại phía sau trọn (C dùng chunk của B)
+C,5481-U006,PHAN_2,B-5481-U006-001,762,"2.3. Đái tháo đường thai kỳ:
+ĐTĐ thai kỳ là ĐTĐ được chẩn đoán trong 3 tháng giữa hoặc 3 tháng cuối của thai kỳ và không có bằng chứng về ĐTĐ típ 1, típ 2 trước đó. Nếu phụ nữ có thai 3 tháng đầu được phát hiện tăng glucose huyết thì chẩn đoán là ĐTĐ chưa được chẩn đoán hoặc chưa được phát hiện và dùng tiêu chí chẩn đoán như ở người không có thai.
+2.4. Đái tháo đường thứ phát và thể bệnh chuyên biệt của ĐTĐ
+a) Khiếm khuyết trên nhiễm sắc thể thường, di truyền theo gen trội tại tế bào beta.
+- ĐTĐ đơn gen thể MODY (Maturity Onset Diabetes of the Young)
+- Insulin hoặc proinsulin đột biến: (Protein đột biến preproinsulin-gen INS)
+- Đột biến kênh KATP (Protein đột biến: kênh chỉnh lưu Kali 6,2-gen KCNJ11; Protein đột biến: Thụ thể sulfonylurea 1-gen ABBC8).",2,"Mục 2.3 và 2.4 trọn, từng dòng tự đọc được (C dùng chunk của B)"
+C,5481-U007,PHAN_2,B-5481-U007-001,673,"2.5. Phân biệt đái tháo đường típ 1 và típ 2
+Bảng 1: Phân biệt ĐTĐ típ 1 và típ 2
+Đặc điểm: Tuổi xuất hiện; Đái tháo đường típ 1: Trẻ, thanh thiếu niên; Đái tháo đường típ 2: Tuổi trưởng thành
+Đặc điểm: Khởi phát; Đái tháo đường típ 1: Các triệu chứng rầm rộ; Đái tháo đường típ 2: Chậm, thường không rõ triệu chứng
+Đặc điểm: Biểu hiện lâm sàng; Đái tháo đường típ 1: - Sút cân nhanh chóng.
+- Đái nhiều.
+- Uống nhiều; Đái tháo đường típ 2: - Bệnh diễn tiến âm ỉ, ít triệu chứng
+- Thể trạng béo, thừa cân
+- Tiền sử gia đình có người mắc bệnh đái tháo đường típ 2.
+- Đặc tính dân tộc có tỷ lệ mắc bệnh cao.
+- Dấu gai đen (Acanthosis nigricans)
+- Hội chứng buồng trứng đa nang",2,Tiêu đề và các hàng đầu của Bảng 1 trọn; các hàng sau ở chunk khác nhưng không gây hiểu sai (C dùng chunk của B)
+C,5481-U008,PHAN_3,B-5481-U008-001,742,"KHÁM VÀ ĐÁNH GIÁ TOÀN DIỆN NGƯỜI BỆNH ĐTĐ
+1. Mục đích
+Đánh giá toàn diện nên thực hiện vào lần khám bệnh đầu tiên sau đó định kỳ hàng năm nhằm mục đích sau:
+- Xác định chẩn đoán và phân loại ĐTĐ;
+- Phát hiện các biến chứng đái tháo đường và các bệnh đồng mắc;
+- Xem xét việc điều trị trước đây và việc kiểm soát yếu tố nguy cơ ở BN ĐTĐ đã được chẩn đoán;
+- Thảo luận cùng người bệnh và thân nhân trong xây dựng kế hoạch quản lý, tự quản lý và chăm sóc.
+- Xây dựng kế hoạch hoặc điều chỉnh để chăm sóc liên tục, toàn diện người bệnh.
+2. Các nội dung đánh giá toàn diện
+2.1. Bệnh sử - Lâm sàng:
+- Tuổi, đặc điểm lúc khởi phát đái tháo đường (nhiễm toan ceton đái tháo đường, phát hiện đái tháo đường bằng xét nghiệm nhưng không có triệu chứng).",2,"Mục đích, nội dung đánh giá và mục 2.1 mở đầu đọc được (C dùng chunk của B)"
+C,5481-U009,PHAN_3,B-5481-U009-001,793,"- Tầm soát trầm cảm, lo âu, các khó khăn về tài chính, sự trợ giúp xã hội
+- Nếu BN có máy thử glucose huyết cá nhân hoặc sổ theo dõi khám bệnh, kiểm tra lại các thông số theo dõi glucose huyết và xử trí của BN.
+- Tiền sử nhiễm toan ceton, tần suất, độ trầm trọng, nguyên nhân.
+- Tiền sử các cơn hạ glucose máu, khả năng nhận biết và cách xử trí lúc có cơn, tần suất, nguyên nhân.
+- Tiền sử tăng huyết áp, rối loạn lipid máu
+- Các biến chứng mạch máu nhỏ: võng mạc, thận, thần kinh
+- Các biến chứng mạch máu lớn: bệnh tim thiếu máu cục bộ, nhồi máu cơ tim, đột quị, bệnh mạch máu ngoại vi.
+- Cân nặng các con lúc sinh của phụ nữ.
+Đối với phụ nữ trong lứa tuổi sinh sản: hỏi vế kế hoạch sinh con của BN, người bệnh có dùng phương pháp nào để ngừa thai.
+2.2. Khám thực thể: cần đặc biệt chú trọng",1,Tiếp nối danh sách bệnh sử mà không có tiêu đề; cuối chunk là tiêu đề 2.2 mồ côi (C dùng chunk của B)
+C,5481-U010,PHAN_3,B-5481-U010-001,795,"f) Khám da: tìm dấu gai đen, các thay đổi da do ĐTĐ kiểm soát kém, khám các vùng tiêm chích (nếu BN dùng insulin)
+g) Khám bàn chân toàn diện:
+- Nhìn: xem dấu khô da, thay đổi màu sắc da (tái, tím, tấy đỏ), các vết chai, biến dạng bàn chân, loét chân…
+- Sờ: xem da lạnh hay nóng, bắt mạch mu chân và chày sau, hốc kheo chân
+h) Khám thần kinh:
+- TK ngoại biên:
++ Dấu cơ năng hỏi triệu chứng về dị cảm ở chi dưới: tê bì, đau nhức, nóng rát,..
++ Có hay mất phản xạ gân cơ Achilles
++ Khám thực thể: cảm giác xúc giác, cảm giác rung, cảm giác áp lực bằng sợi đơn (monofilament).
+- Thần kinh tự động ảnh hưởng trên nhiều cơ quan
+2.3. Đánh giá về cận lâm sàng
+Bảng 2: Xét nghiệm đối với người bệnh đái tháo đường
+Tên xét nghiệm: Công thức máu; Lần đầu: x; Tái khám: 3- 6 tháng, Tùy tình trạng người bệnh",1,Các mục f-h trọn nhưng thiếu a-e; cuối chunk chỉ có tiêu đề Bảng 2 và một hàng (C dùng chunk của B)

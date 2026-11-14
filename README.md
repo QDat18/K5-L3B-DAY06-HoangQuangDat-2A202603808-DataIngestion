@@ -32,6 +32,37 @@ Dùng cùng dữ liệu, model và câu hỏi cho cả ba cấu hình. Tách **1
 2. Điền [thông tin học viên](STUDENT.md), [nhật ký thí nghiệm](artifacts/experiment_log.csv) và bản sao [mẫu báo cáo cá nhân](report/individual/MSSV_HoTen.md).
 3. Kiểm tra mã nguồn, cách chạy, manifest dữ liệu và checklist trong [SUBMISSION.md](SUBMISSION.md).
 
+## Bài làm của Hoàng Quang Đạt (2A202603808): cách setup và chạy
+
+Đề tài: đái tháo đường típ 2, QĐ 5481/QĐ-BYT (tiếng Việt). Báo cáo: [report/individual/2A202603808_HoangQuangDat.md](report/individual/2A202603808_HoangQuangDat.md). Code ở `starter/src/`, benchmark ở `starter/benchmark/`, kết quả ở `starter/results/`, manifest ở `starter/data/manifest.json`, nhật ký thí nghiệm ở `artifacts/experiment_log.csv`.
+
+**Dữ liệu.** File gốc không nằm trong repo (quyền tái phân phối chưa xác minh). Tải về từ URL trong `starter/data/manifest.json`, lưu thành `starter/data/raw/5481_QD-BYT_460925.docx` và đối chiếu sha256 trong manifest.
+
+**Cài đặt** (Python 3.11-3.14, Docker; chạy từ `starter/`, trên Windows PowerShell):
+
+```bash
+cd starter
+py -3.12 -m venv .venv
+.venv\Scripts\Activate.ps1
+python -m pip install -r requirements.txt
+Copy-Item .env.example .env
+docker compose -p day6_student_starter up -d --wait
+python scripts/check_setup.py
+```
+
+**Chạy** (lần đầu tải model `BAAI/bge-m3`, vài GB; CPU mất khoảng 2-4 phút mỗi lần nạp):
+
+```bash
+python -m pytest -m "not slow"        # test nhanh (cần Docker cho tests/test_store.py)
+python -m pytest                      # thêm test embedding (tải model)
+python -m src.run --split dev         # nạp A và B, chạy A/B/C trên 15 câu dev
+python -m src.run --split test        # đúng MỘT lần; lần hai bị chặn trừ khi dùng --force-test
+python -m src.run --split test2       # tập giữ riêng 10 câu, cũng chỉ chạy một lần
+python -m src.audit                   # sinh lại mẫu audit (sẽ ghi đè nhãn đã chấm trong results/audit_*.csv)
+```
+
+Lưu ý: `python -m src.audit` ghi đè các file `audit_*.csv`; sao lưu nhãn trước khi chạy lại. Nhãn audit hiện có do Claude chấm (xem `starter/results/audit_method.md`).
+
 ## Tài liệu hướng dẫn
 
 | Bạn cần tìm | Tài liệu |

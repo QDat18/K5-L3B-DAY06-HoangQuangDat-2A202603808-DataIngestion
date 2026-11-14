@@ -1,6 +1,14 @@
 """Shared data contracts; keep traceability from chunk back to source."""
 from dataclasses import dataclass, field
-from typing import Any
+from typing import Any, Literal
+
+
+@dataclass
+class Block:
+    """One body element of a docx, in document order (empty ones are skipped)."""
+    kind: Literal["p", "table"]
+    text: str
+    index: int
 
 
 @dataclass

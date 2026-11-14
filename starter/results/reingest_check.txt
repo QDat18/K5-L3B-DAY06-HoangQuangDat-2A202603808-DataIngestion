@@ -1,0 +1,2 @@
+A: rows after first upsert = 305, after second upsert = 305
+B: rows after first upsert = 234, after second upsert = 234

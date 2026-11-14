@@ -1,0 +1,13 @@
+python 3.12.10
+sentence-transformers 6.3.0
+torch 2.15.0+cpu
+embedding_model BAAI/bge-m3
+postgresql 16.16 (Docker image pgvector/pgvector:0.8.7-pg16)
+pgvector 0.8.7
+psycopg 3.3.8
+python-docx 1.2.0
+transformers 5.22.2
+hardware: CPU only (no GPU)
+run_dev_finished: 2026-11-14 10:45 +0700 (time of the last write of results/traces_*_dev.jsonl)
+run_test_finished: 2026-11-14 10:55 +0700 (results/traces_*_test.jsonl)
+run_test2_finished: 2026-11-14 11:20 +0700 (results/traces_*_test2.jsonl)

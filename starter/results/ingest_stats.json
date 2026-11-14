@@ -1,0 +1,29 @@
+{
+  "model": "BAAI/bge-m3",
+  "dimensions": 1024,
+  "cost_usd": 0,
+  "A": {
+    "chunks": 305,
+    "total_chars": 152373,
+    "min": 373,
+    "mean": 499.6,
+    "p50": 500,
+    "p95": 500,
+    "max": 500,
+    "ingest_seconds": 135.33,
+    "rows_in_db": 305
+  },
+  "B": {
+    "chunks": 234,
+    "total_chars": 136940,
+    "min": 45,
+    "mean": 585.2,
+    "p50": 684.0,
+    "p95": 791,
+    "max": 800,
+    "ingest_seconds": 115.18,
+    "rows_in_db": 234
+  },
+  "units": 80,
+  "b_max_size": 800
+}
